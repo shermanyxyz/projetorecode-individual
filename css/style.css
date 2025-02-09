@@ -1,0 +1,39 @@
+.navbar {
+
+    height: 15%;
+}
+
+.logo {
+    width: 90px;
+    height: auto;
+}
+
+.carousel-container {
+    justify-content: center;
+    display: flex;
+    width: 80%;
+    height: auto;
+    margin-top: 50px;
+    margin-left: 10%;
+    margin-bottom: 30px;
+}
+
+.primeiroTitulo {
+    font-size: 5vw; /* O tamanho da fonte será 5% da largura da viewport */
+    text-align: center;
+    margin: 20px 0;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.passagens-msg {
+
+    font-size: 5vw; /* O tamanho da fonte será 5% da largura da viewport */
+    text-align: center;
+    margin: 20px 0;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.passagens-cards {
+
+    border: 1px solid red;
+}
